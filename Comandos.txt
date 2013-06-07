@@ -1,0 +1,7 @@
+git config --global credencial.helper cache (usuario e senha gravados)
+git add . (Adicionar os arquivos da pasta que foram modificados)
+git status (status do git se tem algo para upar)
+git commit - m "Comentário" (dar commit no git)
+git commit push origin master (comitar no master)
+
+git-scm.com/book (Livro pro git)
